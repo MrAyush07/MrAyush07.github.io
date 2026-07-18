@@ -4,7 +4,7 @@ Welcome to my portfolio repository.
 
 ## 🌐 Portfolio
 
-**Live Website:** https://mrayush07.github.io/
+**Live Website:** https://mrayush07.github.io/Portfolio/
 
 ## 👨‍💻 About Me
 
